@@ -141,7 +141,7 @@ svg circle
   stroke: #191919;
   stroke-width: 10;
   stroke-linecap: round;
-  transform: translate(5px 5px);
+  transform: translate(5px, 5px);
 }
 
 svg circle:nth-child(2)
